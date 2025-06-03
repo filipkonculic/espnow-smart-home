@@ -11,9 +11,4 @@
 - **Transmitter**: Red ESP32 (IoT Cloud interface)  
 - **Receivers**:  
   - Yellow ESP32 (Lights + RFID)  
-  - Black ESP32 (Garage servo + Stepper curtains)  
-
-## Setup  
-bash
-# Clone repo  
-git clone https://github.com/yourusername/espnow-smart-home.git  
+  - Black ESP32 (Garage servo + Stepper curtains) 
