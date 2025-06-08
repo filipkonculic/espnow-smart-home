@@ -9,8 +9,10 @@
 
 ## Hardware  
 - **Transmitter**:
+
   🔴 Red ESP32 (IoT Cloud interface)  
-- **Receivers**:  
+- **Receivers**:
+  
   🟡 Yellow ESP32 (Lights + RFID)  
   ⚫ Black ESP32 (Garage servo + Stepper curtains)
 
